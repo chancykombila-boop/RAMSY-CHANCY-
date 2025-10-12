@@ -1,1 +1,6 @@
-you know 
+node_modules/
+.env
+*.db
+config_env.json
+cache_jid.json
+store_msg.json
